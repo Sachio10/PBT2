@@ -1,0 +1,6 @@
+Red Rose, Rose, 2024-11-07, 100, 37.99
+White Rose, Rose, 2024-11-27, 100, 37.99
+Yellow Rose, Rose, 2024-11-18, 150, 33.99
+Pink Lily, Lily, 2024-12-19, 50, 67
+White Lily, Lily, 2024-10-27, 57, 67
+Blue Lily, Lily, 2024-11-20, 24, 67
